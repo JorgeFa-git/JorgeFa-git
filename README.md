@@ -1,5 +1,5 @@
 
-## Hi, I'm Jorge Antônio Friedrich and welcome to my GitHub profile!
+## Hi, welcome to my GitHub profile!
 <div>
   <p>
     Here you can see all my personal projects, it varies from game development to arduino stuff. I'm currently working as a Fullstack developer using Angular 13 and Spring boot, i am also studying mechatronics engeneering.

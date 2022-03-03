@@ -15,8 +15,8 @@
   </span>
 </div>
 
-<div>
   #### Known technologies: 
+<div>
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" heigth="25"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25" heigth="25"/>
@@ -27,8 +27,8 @@
   </span>
 </div>
 
-<div>
   #### Currently learning:
+<div>
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25" heigth="25"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" heigth="25"/>

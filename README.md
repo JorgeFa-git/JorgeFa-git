@@ -6,3 +6,14 @@ Here you can see all my personal projects, the finished ones, that ones that i g
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" heigth="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" heigth="40"/></span>
 
+#### Known technologies: 
+<span>
+  <figure>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" heigth="40"/>
+    <figcaption> Intermediate </figcaption>
+  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" heigth="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" heigth="40"/>
+
+</span>
+
